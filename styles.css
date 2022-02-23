@@ -684,10 +684,13 @@ button:active {
 
 form {
   margin: 0 auto;
-  width: 400px;
-  padding: 1em;
   border: 1px solid #CCC;
   border-radius: 1em;
+  background: url("image/contactformshapes-mobile@2x.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #6070FF;
+  height: 500px;
 }
 
 ul {
