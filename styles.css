@@ -714,6 +714,7 @@ section.contact__me__section {
   align-self: center;
   width: auto;
   margin-bottom: 5px;
+  padding: 0;
 }
 
 .contact__me__text {
@@ -739,16 +740,13 @@ section.contact__me__section {
   width: 285px;
   margin-top: 8px;
   margin-bottom: 8px;
+  padding: 0px;
   height: 48px;
   left: 0;
   right: 0;
   top: 0;
   bottom: 0;
-
-  /* Mono/White */
   background: #fff;
-
-  /* Base/100 */
   border: 1px solid #cfd8dc;
   border-radius: 8px;
 }
@@ -758,6 +756,7 @@ section.contact__me__section {
   border-radius: 10px;
   margin-top: 8px;
   margin-bottom: 8px;
+  padding: 0px;
   display: flex;
 }
 
