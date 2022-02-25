@@ -706,8 +706,7 @@ section.contact__me__section {
   }
 
   .contact__me {
-    display: flex;
-    justify-content;
+    display: flex; 
     flex-direction: column;
   }
 
