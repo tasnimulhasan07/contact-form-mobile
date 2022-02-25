@@ -706,7 +706,7 @@ section.contact__me__section {
   }
 
   .contact__me {
-    display: flex; 
+    display: flex;
     flex-direction: column;
   }
 
@@ -770,4 +770,3 @@ section.contact__me__section {
     margin-top: 8px;
     align-self: baseline;
   }
-}
