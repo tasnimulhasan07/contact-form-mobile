@@ -730,7 +730,6 @@ section.contact__me__section {
 
 .contact__me__form {
   display: flex;
-  align-items: left;
   flex-direction: column;
   border-radius: 50px;
   width: auto;
@@ -769,20 +768,17 @@ section.contact__me__section {
   height: 48px;
   left: 24px;
   top: 5317px;
-  background: #FFFFFF;
+  background: #ffffff;
   border-radius: 8px;
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
   line-height: 24px;
-  display: flex;
-  align-items: center;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #6070FF;
+  color: #6070ff;
   flex: none;
   order: 0;
   flex-grow: 0;
-  margin: 0px 0px;
 }
