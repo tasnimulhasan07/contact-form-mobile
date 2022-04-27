@@ -784,3 +784,10 @@ section.contact__me__section {
   order: 0;
   flex-grow: 0;
 }
+
+hr {
+  margin-bottom: 10px;
+  width: 110px;
+  border: 2px solid #000;
+  background-color: #000;
+}
