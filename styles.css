@@ -696,7 +696,8 @@ h3 {
 
 section.contact__me__section {
   background-image: url("image/contactformshapes-mobile@2x.png");
-  background-size: cover;
+  background-position: right;
+  background-size: contain;
   background-color: #6070ff;
   background-repeat: no-repeat;
   border-top-left-radius: 100px;
